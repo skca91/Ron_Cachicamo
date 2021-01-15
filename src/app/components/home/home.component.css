@@ -1,0 +1,39 @@
+body {
+    background-color: #0b0b0d;
+    color: white;
+}
+
+.grande {
+    background-color: #0b0b0d;
+}
+
+.medio {
+    height: 100px;
+    width: 100%;
+    background-color: #0b0b0d;
+}
+
+.link{
+    color: white;
+}
+.link:hover{
+    text-decoration: none;
+    color: #a76b09;
+}
+
+.ajustar{
+    
+    background-color: #0b0b0d;
+}
+
+.card {
+    background-color: #332e32;
+}
+
+.img {
+    display: block;
+    margin: auto;
+}
+
+
+

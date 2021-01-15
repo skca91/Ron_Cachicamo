@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RonCachicamo"
+    }
+  },
+  "defaultProject": "RonCachicamo",
+  "cli": {
+    "analytics": "72c304d3-0a6a-4137-9c46-e0162f5e3bdd"
+  }
 }
